@@ -1,4 +1,4 @@
-package com.xxx.Filter;
+package com.xxx.filter;
 
 import com.xxx.dao.entity.Link;
 import com.xxx.dao.repository.LinkRepository;
